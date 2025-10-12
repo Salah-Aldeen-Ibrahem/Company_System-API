@@ -1,0 +1,270 @@
+[
+  {
+    "ContainingType": "Company_CaseStudy.Controllers.ContractController",
+    "Method": "AddContract",
+    "RelativePath": "api/Contract",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contractAdddto",
+        "Type": "Company_CaseStudy.Dto.ContractsDtos.ContractAdddto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Company_CaseStudy.Controllers.ContractController",
+    "Method": "GetContracttoEmp",
+    "RelativePath": "api/Contract/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Company_CaseStudy.Controllers.ContractController",
+    "Method": "ConUpd",
+    "RelativePath": "api/Contract/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "contractUpdateDto",
+        "Type": "Company_CaseStudy.Dto.ContractsDtos.ContractUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Company_CaseStudy.Controllers.ContractController",
+    "Method": "DelCon",
+    "RelativePath": "api/Contract/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Company_CaseStudy.Controllers.DepartmentController",
+    "Method": "GetDep",
+    "RelativePath": "api/Department",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Company_CaseStudy.Controllers.DepartmentController",
+    "Method": "AddDep",
+    "RelativePath": "api/Department",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "depAddorUpd",
+        "Type": "Company_CaseStudy.Dto.DepartmentDtos.DepAddorUpd",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Company_CaseStudy.Controllers.DepartmentController",
+    "Method": "DepUpd",
+    "RelativePath": "api/Department/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "depAddorUpd",
+        "Type": "Company_CaseStudy.Dto.DepartmentDtos.DepAddorUpd",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Company_CaseStudy.Controllers.DepartmentController",
+    "Method": "DepDel",
+    "RelativePath": "api/Department/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Company_CaseStudy.Controllers.EmpolyeeController",
+    "Method": "GetAllEmp",
+    "RelativePath": "api/Empolyee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Company_CaseStudy.Controllers.EmpolyeeController",
+    "Method": "AddEmp",
+    "RelativePath": "api/Empolyee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empAddorUpdateDto",
+        "Type": "Company_CaseStudy.Dto.EmpolyeesDtos.EmpAddorUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Company_CaseStudy.Controllers.EmpolyeeController",
+    "Method": "UpdateEmp",
+    "RelativePath": "api/Empolyee/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "empAddorUpdateDto",
+        "Type": "Company_CaseStudy.Dto.EmpolyeesDtos.EmpAddorUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Company_CaseStudy.Controllers.EmpolyeeController",
+    "Method": "GetAllEmpwithcon",
+    "RelativePath": "api/Empolyee/CountingProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Company_CaseStudy.Controllers.EmpolyeeController",
+    "Method": "Deleteemp",
+    "RelativePath": "api/Empolyee/id",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Company_CaseStudy.Controllers.ProjectController",
+    "Method": "GetallPro",
+    "RelativePath": "api/Project",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Company_CaseStudy.Controllers.ProjectController",
+    "Method": "AddPro",
+    "RelativePath": "api/Project",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectAddorUpd",
+        "Type": "Company_CaseStudy.Dto.ProjectDtos.ProjectAddorUpd",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Company_CaseStudy.Controllers.ProjectController",
+    "Method": "UpdPro",
+    "RelativePath": "api/Project/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "projectAddorUpd",
+        "Type": "Company_CaseStudy.Dto.ProjectDtos.ProjectAddorUpd",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Company_CaseStudy.Controllers.ProjectController",
+    "Method": "DelProject",
+    "RelativePath": "api/Project/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

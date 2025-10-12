@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Programing Language\\WebApi\\Company CaseStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C40308A-DE45-4091-9A83-5A4052C9A191}|Company CaseStudy\\Company CaseStudy.csproj|d:\\work\\programing language\\webapi\\company casestudy\\company casestudy\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C40308A-DE45-4091-9A83-5A4052C9A191}|Company CaseStudy\\Company CaseStudy.csproj|solutionrelative:company casestudy\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C40308A-DE45-4091-9A83-5A4052C9A191}|Company CaseStudy\\Company CaseStudy.csproj|d:\\work\\programing language\\webapi\\company casestudy\\company casestudy\\rebosatry\\projecetrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C40308A-DE45-4091-9A83-5A4052C9A191}|Company CaseStudy\\Company CaseStudy.csproj|solutionrelative:company casestudy\\rebosatry\\projecetrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C40308A-DE45-4091-9A83-5A4052C9A191}|Company CaseStudy\\Company CaseStudy.csproj|d:\\work\\programing language\\webapi\\company casestudy\\company casestudy\\interface\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C40308A-DE45-4091-9A83-5A4052C9A191}|Company CaseStudy\\Company CaseStudy.csproj|solutionrelative:company casestudy\\interface\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C40308A-DE45-4091-9A83-5A4052C9A191}|Company CaseStudy\\Company CaseStudy.csproj|d:\\work\\programing language\\webapi\\company casestudy\\company casestudy\\rebosatry\\genirecrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C40308A-DE45-4091-9A83-5A4052C9A191}|Company CaseStudy\\Company CaseStudy.csproj|solutionrelative:company casestudy\\rebosatry\\genirecrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C40308A-DE45-4091-9A83-5A4052C9A191}|Company CaseStudy\\Company CaseStudy.csproj|d:\\work\\programing language\\webapi\\company casestudy\\company casestudy\\dto\\projectdtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C40308A-DE45-4091-9A83-5A4052C9A191}|Company CaseStudy\\Company CaseStudy.csproj|solutionrelative:company casestudy\\dto\\projectdtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C40308A-DE45-4091-9A83-5A4052C9A191}|Company CaseStudy\\Company CaseStudy.csproj|d:\\work\\programing language\\webapi\\company casestudy\\company casestudy\\dto\\projectdtos\\projectaddorupd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C40308A-DE45-4091-9A83-5A4052C9A191}|Company CaseStudy\\Company CaseStudy.csproj|solutionrelative:company casestudy\\dto\\projectdtos\\projectaddorupd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C40308A-DE45-4091-9A83-5A4052C9A191}|Company CaseStudy\\Company CaseStudy.csproj|d:\\work\\programing language\\webapi\\company casestudy\\company casestudy\\rebosatry\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C40308A-DE45-4091-9A83-5A4052C9A191}|Company CaseStudy\\Company CaseStudy.csproj|solutionrelative:company casestudy\\rebosatry\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C40308A-DE45-4091-9A83-5A4052C9A191}|Company CaseStudy\\Company CaseStudy.csproj|d:\\work\\programing language\\webapi\\company casestudy\\company casestudy\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C40308A-DE45-4091-9A83-5A4052C9A191}|Company CaseStudy\\Company CaseStudy.csproj|solutionrelative:company casestudy\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "D:\\Work\\Programing Language\\WebApi\\Company CaseStudy\\Company CaseStudy\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Company CaseStudy\\Controllers\\ProjectController.cs",
+              "ToolTip": "D:\\Work\\Programing Language\\WebApi\\Company CaseStudy\\Company CaseStudy\\Controllers\\ProjectController.cs*",
+              "RelativeToolTip": "Company CaseStudy\\Controllers\\ProjectController.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T21:06:29.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjecetRepo.cs",
+              "DocumentMoniker": "D:\\Work\\Programing Language\\WebApi\\Company CaseStudy\\Company CaseStudy\\Rebosatry\\ProjecetRepo.cs",
+              "RelativeDocumentMoniker": "Company CaseStudy\\Rebosatry\\ProjecetRepo.cs",
+              "ToolTip": "D:\\Work\\Programing Language\\WebApi\\Company CaseStudy\\Company CaseStudy\\Rebosatry\\ProjecetRepo.cs*",
+              "RelativeToolTip": "Company CaseStudy\\Rebosatry\\ProjecetRepo.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T20:58:10.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectDto.cs",
+              "DocumentMoniker": "D:\\Work\\Programing Language\\WebApi\\Company CaseStudy\\Company CaseStudy\\Dto\\ProjectDtos\\ProjectDto.cs",
+              "RelativeDocumentMoniker": "Company CaseStudy\\Dto\\ProjectDtos\\ProjectDto.cs",
+              "ToolTip": "D:\\Work\\Programing Language\\WebApi\\Company CaseStudy\\Company CaseStudy\\Dto\\ProjectDtos\\ProjectDto.cs*",
+              "RelativeToolTip": "Company CaseStudy\\Dto\\ProjectDtos\\ProjectDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T20:57:21.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectAddorUpd.cs",
+              "DocumentMoniker": "D:\\Work\\Programing Language\\WebApi\\Company CaseStudy\\Company CaseStudy\\Dto\\ProjectDtos\\ProjectAddorUpd.cs",
+              "RelativeDocumentMoniker": "Company CaseStudy\\Dto\\ProjectDtos\\ProjectAddorUpd.cs",
+              "ToolTip": "D:\\Work\\Programing Language\\WebApi\\Company CaseStudy\\Company CaseStudy\\Dto\\ProjectDtos\\ProjectAddorUpd.cs*",
+              "RelativeToolTip": "Company CaseStudy\\Dto\\ProjectDtos\\ProjectAddorUpd.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T20:57:56.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenirecRepo.cs",
+              "DocumentMoniker": "D:\\Work\\Programing Language\\WebApi\\Company CaseStudy\\Company CaseStudy\\Rebosatry\\GenirecRepo.cs",
+              "RelativeDocumentMoniker": "Company CaseStudy\\Rebosatry\\GenirecRepo.cs",
+              "ToolTip": "D:\\Work\\Programing Language\\WebApi\\Company CaseStudy\\Company CaseStudy\\Rebosatry\\GenirecRepo.cs",
+              "RelativeToolTip": "Company CaseStudy\\Rebosatry\\GenirecRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T21:00:17.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "D:\\Work\\Programing Language\\WebApi\\Company CaseStudy\\Company CaseStudy\\Interface\\IProduct.cs",
+              "RelativeDocumentMoniker": "Company CaseStudy\\Interface\\IProduct.cs",
+              "ToolTip": "D:\\Work\\Programing Language\\WebApi\\Company CaseStudy\\Company CaseStudy\\Interface\\IProduct.cs*",
+              "RelativeToolTip": "Company CaseStudy\\Interface\\IProduct.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T20:58:23.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentRepo.cs",
+              "DocumentMoniker": "D:\\Work\\Programing Language\\WebApi\\Company CaseStudy\\Company CaseStudy\\Rebosatry\\DepartmentRepo.cs",
+              "RelativeDocumentMoniker": "Company CaseStudy\\Rebosatry\\DepartmentRepo.cs",
+              "ToolTip": "D:\\Work\\Programing Language\\WebApi\\Company CaseStudy\\Company CaseStudy\\Rebosatry\\DepartmentRepo.cs",
+              "RelativeToolTip": "Company CaseStudy\\Rebosatry\\DepartmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T21:05:17.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\Work\\Programing Language\\WebApi\\Company CaseStudy\\Company CaseStudy\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Company CaseStudy\\Models\\Project.cs",
+              "ToolTip": "D:\\Work\\Programing Language\\WebApi\\Company CaseStudy\\Company CaseStudy\\Models\\Project.cs",
+              "RelativeToolTip": "Company CaseStudy\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T20:51:59.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
