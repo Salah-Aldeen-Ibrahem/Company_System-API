@@ -122,8 +122,11 @@ The Company Management System API provides a structured backend to handle all in
 |------------|---------|------|-----|--------|
 | Employee | ✅ | ✅ | ✅ | ✅ |
 | Department | ✅ | ✅ | ✅ | ✅ |
-| Contract | ✅ | ✅ | ✅ | ✅ |
 | Project | ✅ | ✅ | ✅ | ✅ |
+
+| Controller | GET By ID | POST | PUT | DELETE |
+|------------|-----------|------|-----|--------|
+| Contract | ✅ | ✅ | ✅ | ✅ |
 
 ---
 
