@@ -36,7 +36,6 @@ The Company Management System API provides a structured backend to handle all in
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | GET | `/api/employees` | Get all employees |
-| GET | `/api/employees/{id}` | Get a specific employee by ID |
 | POST | `/api/employees` | Create a new employee |
 | PUT | `/api/employees/{id}` | Update an existing employee |
 | DELETE | `/api/employees/{id}` | Delete an employee |
@@ -59,7 +58,6 @@ The Company Management System API provides a structured backend to handle all in
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | GET | `/api/departments` | Get all departments |
-| GET | `/api/departments/{id}` | Get a specific department by ID |
 | POST | `/api/departments` | Create a new department |
 | PUT | `/api/departments/{id}` | Update an existing department |
 | DELETE | `/api/departments/{id}` | Delete a department |
@@ -78,7 +76,6 @@ The Company Management System API provides a structured backend to handle all in
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| GET | `/api/contracts` | Get all contracts |
 | GET | `/api/contracts/{id}` | Get a specific contract by ID |
 | POST | `/api/contracts` | Create a new contract |
 | PUT | `/api/contracts/{id}` | Update an existing contract |
@@ -102,7 +99,6 @@ The Company Management System API provides a structured backend to handle all in
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | GET | `/api/projects` | Get all projects |
-| GET | `/api/projects/{id}` | Get a specific project by ID |
 | POST | `/api/projects` | Create a new project |
 | PUT | `/api/projects/{id}` | Update an existing project |
 | DELETE | `/api/projects/{id}` | Delete a project |
@@ -122,12 +118,12 @@ The Company Management System API provides a structured backend to handle all in
 
 ## 📊 Endpoint Summary
 
-| Controller | GET All | GET One | POST | PUT | DELETE |
+| Controller | GET All | POST | PUT | DELETE |
 |------------|---------|---------|------|-----|--------|
-| Employee | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Department | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Contract | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Project | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Employee | ✅ | ✅ | ✅ | ✅ |
+| Department | ✅ | ✅ | ✅ | ✅ |
+| Contract | ✅ | ✅ | ✅ | ✅ |
+| Project | ✅ | ✅ | ✅ | ✅ |
 
 ---
 
